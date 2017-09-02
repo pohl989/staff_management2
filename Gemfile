@@ -12,6 +12,8 @@ gem 'rails', '~> 5.1.1'
 gem 'pg', '~> 0.18.4'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
+gem 'bootstrap-sass', '~> 3.3.6'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -59,5 +61,4 @@ gem 'mini_magick'
 gem 'fog-aws'
 gem 'simple_form'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
-gem 'bootstrap-sass', '~> 3.3.6'
 gem 'haml'
